@@ -5,12 +5,15 @@ This project demonstrates end-to-end integration of NLP-based ranking logic with
 Tech Stack
 
 Backend
+
+Gradio
 Python
 Flask
 NLP techniques
 PDF text extraction
 Frontend
-React.js
+
+Gradio UI
 JavaScript
 HTML/CSS
 
